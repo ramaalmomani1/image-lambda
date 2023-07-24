@@ -21,4 +21,4 @@
 
 ----
 
-**images.json file link:** https://imageslab17.s3.amazonaws.com/images.json
+**images.json file link:** https://testlab17.s3.amazonaws.com/images.json
